@@ -3,7 +3,7 @@
 
 # BD2K OER Materials Blueprint
 
-Revised 04/12/2016
+
 
 ## Module Number: BDK10
 
@@ -32,13 +32,13 @@ At the completion of this component, the learner will be able to:
 
 Unit 1 Slides: BDK10-1.pptx
 
-Unit 1 Audio: BDK10-1.mp3
+Unit 1 Audio: BDK10-1.mp3 - Full lecture, Audio File - Individual Slides
 
 ### Unit 2: Content
 
 Unit 2 Slides: BDK10-2.pptx
 
-Unit 2 Audio: BDK10-2.mp3
+Unit 2 Audio: BDK10-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Resources: BDK10-2\_resources.pdf
 
@@ -46,7 +46,7 @@ Unit 2 Resources: BDK10-2\_resources.pdf
 
 Unit 3 Slides: BDK10-3.pptx
 
-Unit 3 Audio: BDK10-3.mp3
+Unit 3 Audio: BDK10-3.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 3 Resources: BDK10-3\_resources.pdf
 
@@ -54,7 +54,7 @@ Unit 3 Resources: BDK10-3\_resources.pdf
 
 Unit 4 Slides: BDK10-4.pptx
 
-Unit 4 Audio: BDK10-4.mp3
+Unit 4 Audio: BDK10-4.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 4 Resources: BDK10-4\_resources.pdf
 
@@ -62,7 +62,7 @@ Unit 4 Resources: BDK10-4\_resources.pdf
 
 Unit 5 Slides: BDK10-5.pptx
 
-Unit 5 Audio: BDK10-5.mp3
+Unit 5 Audio: BDK10-5.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 5 Resources: BDK10-5\_resources.pdf
 
@@ -70,7 +70,7 @@ Unit 5 Resources: BDK10-5\_resources.pdf
 
 Unit 6 Slides: BDK10-6.pptx
 
-Unit 6 Audio: BDK10-6.mp3
+Unit 6 Audio: BDK10-6.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 6 Resources: BDK10-6\_resources.pdf
 
@@ -78,7 +78,7 @@ Unit 6 Resources: BDK10-6\_resources.pdf
 
 Unit 7 Slides: BDK10-7.pptx
 
-Unit 7 Audio: BDK10-7.mp3
+Unit 7 Audio: BDK10-7.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 7 Resources: BDK10-7\_resources.pdf
 
