@@ -34,6 +34,8 @@ Unit 1 Slides: BDK10-1.pptx
 
 Unit 1 Audio: BDK10-1.mp3 - Full lecture, Audio File - Individual Slides
 
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK10-1/presentation_html5.html)
+
 ### Unit 2: Content
 
 Unit 2 Slides: BDK10-2.pptx
@@ -41,6 +43,8 @@ Unit 2 Slides: BDK10-2.pptx
 Unit 2 Audio: BDK10-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Resources: BDK10-2\_resources.pdf
+
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK10-2/presentation_html5.html)
 
 ### Unit 3: Indexing - Part 1
 
@@ -50,6 +54,8 @@ Unit 3 Audio: BDK10-3.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 3 Resources: BDK10-3\_resources.pdf
 
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK10-3/presentation_html5.html)
+
 ### Unit 4: Indexing - Part 2
 
 Unit 4 Slides: BDK10-4.pptx
@@ -57,6 +63,8 @@ Unit 4 Slides: BDK10-4.pptx
 Unit 4 Audio: BDK10-4.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 4 Resources: BDK10-4\_resources.pdf
+
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK10-4/presentation_html5.html)
 
 ### Unit 5: Retrieval - Part 1
 
@@ -66,6 +74,8 @@ Unit 5 Audio: BDK10-5.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 5 Resources: BDK10-5\_resources.pdf
 
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK10-5/presentation_html5.html)
+
 ### Unit 6: Retrieval - Part 2
 
 Unit 6 Slides: BDK10-6.pptx
@@ -74,6 +84,8 @@ Unit 6 Audio: BDK10-6.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 6 Resources: BDK10-6\_resources.pdf
 
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK10-6/presentation_html5.html)
+
 ### Unit 7: Research: Evaluation and Future Directions
 
 Unit 7 Slides: BDK10-7.pptx
@@ -81,6 +93,8 @@ Unit 7 Slides: BDK10-7.pptx
 Unit 7 Audio: BDK10-7.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 7 Resources: BDK10-7\_resources.pdf
+
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK10-7/presentation_html5.html)
 
 ### Module Supplemental Materials
 
@@ -104,6 +118,6 @@ As a result, the materials provided here have limited imagery as we intend for t
 
 **Where do I find images?** There are several sources that might be available to you.  Depending on how you plan on using the BD2K modules, you may have more flexibility to locate images.  Once you have identify the license that you wish to use, you can search with those restrictions in mind.
 
-- Google Images:  Head to Google Advanced Image Search (http://www.google.com/advanced_image_search) and under the “usage rights” filter, select the filter that matches your requirements.
+- Google Images:  Head to [Google Advanced Image Search](http://www.google.com/advanced_image_search) and under the “usage rights” filter, select the filter that matches your requirements.
 - Flickr Creative Commons:  Many users of Flickr have elected to allow their photographs to be reused.  To browse or search for CC licensed images, head to https://www.flickr.com/creativecommons/  
 - Institutional licenses: depending on your home institution, your library may subscribe to an image database that may be useful.  Please consult with your librarian to see if such assets are available to you.
